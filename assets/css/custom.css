@@ -1,1 +1,12 @@
 /* Add your custom styles here */
+:root{
+    --primary1: #000000;
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary1: #000001
+    }
+    body {
+        background-color: #000000;
+    }
+}
