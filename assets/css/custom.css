@@ -6,7 +6,15 @@
     :root {
         --primary1: #000001
     }
+    head {
+        font-family: 'Noto Sans', sans-serif;
+    }
+    h3 {
+        font-family: 'Noto Sans', sans-serif;
+    }
     body {
         background-color: #E6E8E6;
+        font-family: 'Noto Sans', sans-serif;
+
     }
 }
